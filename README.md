@@ -1,2 +1,2 @@
-# TiSCo
-Official implementation of TiSCo: Timestep–Spatial Correspondence Learning for semantic correspondence
+# TASC
+Official implementation of TASC: Cross-Timestep Adaptive Spatial Context Learning for Robust Semantic Correspondence
